@@ -4,7 +4,7 @@ import os
 from urllib import parse
 
 HEADER="""# 
-# 백준  문제 풀이 목록
+# 백준 문제 풀이 목록
 """
 
 def main():
